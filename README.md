@@ -1,4 +1,4 @@
 # First-repo
 This is my first repository
 <br>
-Author: Raghu nadha
+Author: Raghu nadha Reddy
